@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0358/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部四
+  hash: sha256:feea65c2c5f7b24c3923896ddfefeaca5f2adb12a64602844adb735e91a1782a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0358_WYG_000-1a, image: WYG1183/WYG1183-0175a.png}
+body:
+  text: 西塍集别集類三宋提要臣等謹案西塍集一卷宋宋伯仁撰伯仁字器之湖州人嘉熙時為鹽運司屬官其集一名雪巖吟草乃嘉熙戊戌己亥兩嵗所作因寓居杭州之西馬塍故以西塍為名厲鶚宋詩紀事乃分雪巖馬塍為二集又誤西字為馬字均為失實陳起作江湖小集曽收入伯仁詩檢勘多與此本相同疑即江湖集中析出别行者劉克莊後村千家詩載伯仁秋晚一絶云西風吹破黑貂裘多少江山惜倦遊紅葉已霜天欲鴈緑蓑初雨客吟秋其格調較為清拔而集中固未之及知其全集尚不止此也伯仁所與交往者如髙九萬孫季蕃諸人皆宋季江湖遊客故其詩品亦與之相仿頗少醖藉之致特流傳既久姑録存之以備一家焉乾隆四十四年七月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:b95e0812cc0031985fbb24ebb8ace241ae267567f5f8c0fda689d64eef6232f0
+metadata:
+  title: 西塍集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:05:52.180401'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0358/KR4d0358_000.txt
+hash: sha256:6a37f2e75865d052f87817652518f47929862de66005a728717ec749e596afb1
